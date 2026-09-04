@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://bnmrs6ordc60x"]
+
+[ext_resource type="PackedScene" uid="uid://cjtc371n64nyr" path="res://Scenes/soilder.tscn" id="1_jjgbg"]
+
+[node name="Main" type="Node2D" unique_id=1850653437]
+
+[node name="Soilder" parent="." unique_id=405693986 instance=ExtResource("1_jjgbg")]
